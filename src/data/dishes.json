@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "name": "Kadhai Paneer 1",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "image": "https://blog.eatfit.in/wp-content/uploads/2023/05/image-41.png",
+     "ingredients": [
+      { "name": "Paneer", "qty": "200 g" },
+      { "name": "Onion", "qty": "1 medium" },
+      { "name": "Capsicum", "qty": "1 medium" },
+      { "name": "Masala", "qty": "2 tbsp" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Chicken Tikka",
+    "description": "Grilled marinated chicken chunks.",
+    "mealType": "STARTER",
+    "type": "NON-VEG",
+    "image": "https://live.staticflickr.com/3/2809/33354707111_28840a00d1_b.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Veg Starter Platter",
+    "description": "Crispy veg bites served with chutney.",
+    "mealType": "STARTER",
+    "type": "VEG",
+    "image": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto/the-clay-oven-header2.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Gulab Jamun",
+    "description": "Soft syrupy dessert.",
+    "mealType": "DESSERT",
+    "type": "VEG",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2012/11/gulab-jamun-recipe.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Fries",
+    "description": "Crispy potato fries.",
+    "mealType": "SIDES",
+    "type": "VEG",
+    "image": "https://wallpaperaccess.com/full/1183996.jpg"
+  }
+]
